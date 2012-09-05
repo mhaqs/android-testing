@@ -1,2 +1,1 @@
-android-testing
-===============
+Reference project for http://blog.shinetech.com/2012/09/05/testing-for-android-with-robotium/
